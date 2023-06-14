@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Mingyu Ouyang (欧阳铭禹)"
-excerpt: "Mingyu Ouyang (欧阳铭禹)"
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,20 +10,35 @@ redirect_from:
 
 # About me
 
-Hiii:) My name is Mingyu Ouyang and I am currently a (23'Fall) Master student at the Department of Mathematics, [National University of Singapore](www.nus.edu.sg). I received my Bachelor of Engineering in Spatial Informatics and Digitalized Technology from the [Wuhan University](https://www.whu.edu.cn/), China. There I joined [IIP Lab](http://iip.whu.edu.cn/) under the supervision of Professor [Zhenzhong Chen](http://iip.whu.edu.cn/~zzchen/bio.html). My research interests include image processing, efficient network design, and machine learning.
+Hiii:)
+
+My name is **Mingyu Ouyang (欧阳铭禹)** and I am currently a Master student at the Department of Mathematics, [National University of Singapore](www.nus.edu.sg). I received my Bachelor of Engineering in Spatial Informatics and Digitalized Technology from the [Wuhan University](https://www.whu.edu.cn/), China. There I joined [IIP Lab](http://iip.whu.edu.cn/) under the supervision of Professor [Zhenzhong Chen](http://iip.whu.edu.cn/~zzchen/bio.html). My research interests include image processing, efficient network design, and machine learning.
 
 
 ## Education
 
-:mortar_board: PhD in Modern Statistics and Statistical Machine Learning, 2020-2024, Imperial College London
-:mortar_board: MASt (Part III) in Mathematical Statistics, 2019-2020, University of Cambridge
-:mortar_board: BSc in Mathematics with Statistics, 2016-2019, Imperial College London
+**PhD** in ? (to be continued...)
+
+**MSc** in Data Science and Machine Learning, Department of Mathematics, 2023-present, National University of Singapore
+
+**BSc** in Spatial Informatics, 2019-2023, Wuhan University
 
 
-## Intership
+## Internship
+
+Tencent Technology	
+<img src="/images/Tencent-Logo-s.png" alt="Tencent-Logo-s" style="zoom:33%;" />
+![Editing a markdown file for a talk](/images/Tencent-Logo-s.png)
+Internship Research Scientist - Laboratory of Positioning and Navigation Technology
+
 
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+
+
+## Bonus
+
+blablabla
 
 A data-driven personal website
 ======

@@ -8,17 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-About me
-======
+# About me
 
-I am currently a (23'Fall) Master student in Data Science and Machine Learning at National University of Singapore. I joined the EPSRC CDT in Modern Statistics and Statistical Machine Learning at Imperial and Oxford in 2020 under the supervision of Professor Axel Gandy and Dr Andrew Duncan. My research interests lie in computational Bayesian statistics, distribution testing and kernel methods.
+Hiii:) My name is Mingyu Ouyang and I am currently a (23'Fall) Master student at the Department of Mathematics, [National University of Singapore](www.nus.edu.sg). I received my Bachelor of Engineering in Spatial Informatics and Digitalized Technology from the [Wuhan University](https://www.whu.edu.cn/), China. There I joined [IIP Lab](http://iip.whu.edu.cn/) under the supervision of Professor [Zhenzhong Chen](http://iip.whu.edu.cn/~zzchen/bio.html). My research interests include image processing, efficient network design, and machine learning.
 
-Education
-======
+
+## Education
+
 :mortar_board: PhD in Modern Statistics and Statistical Machine Learning, 2020-2024, Imperial College London
 :mortar_board: MASt (Part III) in Mathematical Statistics, 2019-2020, University of Cambridge
 :mortar_board: BSc in Mathematics with Statistics, 2016-2019, Imperial College London
 
+
+## Intership
 
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).

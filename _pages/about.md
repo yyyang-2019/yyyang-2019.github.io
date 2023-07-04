@@ -12,16 +12,16 @@ redirect_from:
 
 Hiii:)
 
-My name is **Mingyu Ouyang (欧阳铭禹)** and I am currently a Master student at the Department of Mathematics, [National University of Singapore](www.nus.edu.sg). I received my Bachelor of Engineering in Spatial Informatics and Digitalized Technology from the [Wuhan University](https://www.whu.edu.cn/), China. There I joined [IIP Lab](http://iip.whu.edu.cn/) under the supervision of Professor [Zhenzhong Chen](http://iip.whu.edu.cn/~zzchen/bio.html). My research interests include image processing, efficient network design, and machine learning.
+My name is **Mingyu Ouyang (欧阳铭禹)** and I am currently a Master student at the Department of Mathematics, [National University of Singapore](www.nus.edu.sg). I received my Bachelor of Engineering in Spatial Informatics and Digitalized Technology from the [Wuhan University](https://www.whu.edu.cn/), China. There I joined [IIP Lab](http://iip.whu.edu.cn/) under the supervision of Professor [Zhenzhong Chen](http://iip.whu.edu.cn/~zzchen/bio.html). My research interests include image&video processing, efficient network design, and machine learning.
 
 
 ## Education
 
-**PhD** in ? (to be continued...)
+**PhD** in ? (Prospective, to be continued...)
 
 **MSc** in Data Science and Machine Learning, Department of Mathematics, 2023-present, National University of Singapore
 
-**BSc** in Spatial Informatics, 2019-2023, Wuhan University
+**BSc** in Spatial Informatics and Digitalized Technology, 2019-2023, Wuhan University
 
 
 ## Internship
@@ -31,6 +31,7 @@ Tencent Technology
 
 Internship Research Scientist - Laboratory of Positioning and Navigation Technology
 
+SpringTurn Edu
 
 
 ## Bonus

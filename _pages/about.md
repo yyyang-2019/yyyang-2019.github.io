@@ -50,10 +50,11 @@ Software Dev. Intern
 _[IEEE TCSVT summited]_ JPEG Quantized Coefficient Recovery via DCT Domain Spatial-Frequential Transformer, **First Author**
 
 - See pre-print version at [PDF]()
+- Submitted on June 2023
 
 _[CVPRW Challenge Participation]_ NTIRE23 Challenge on Efficient Image Super-Resolution, **First Author**
 
-- See our solution at [PDF]()
+- See our proposed solution at [PDF](). Challenge result at [Link]()
 
 ## Extracurricular
 

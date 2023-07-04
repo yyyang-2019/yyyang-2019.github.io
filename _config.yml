@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Mingyu Ouyang"
   avatar           : "Cruyff.png"
-  bio              : "Master student of Data Science and Machine Learning at NUS"
+  bio              : "Master student of Data Science and Machine Learning, NUS"
   location         : "Wuhan University, China"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=GoYztjwAAAAJ&hl"
   email            : "yyyangwhu@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :

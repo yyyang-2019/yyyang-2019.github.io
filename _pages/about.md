@@ -20,7 +20,7 @@ My name is **Ouyang Mingyu (欧阳铭禹)** and I am currently a Master student 
 
 [comment]: <> (**PhD** in ? &#40;Prospective...&#41;)
 
-![](D:\Github\yyyang-2019.github.io\images\hat-15x15.png) **M.S** in _Data Science and Machine Learning_, Department of Mathematics, 2023-present, National University of Singapore
+![](D:\Github\yyyang-2019.github.io\images\hat-15x15.png) **M.S** in _Data Science and Machine Learning_, 2023-present, National University of Singapore
 
 ![](D:\Github\yyyang-2019.github.io\images\hat-15x15.png) **B.E** in _Spatial Informatics and Digitalized Technology_, 2019-2023, Wuhan University
 

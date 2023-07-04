@@ -18,17 +18,17 @@ My name is **Ouyang Mingyu (欧阳铭禹)** and I am currently a Master student 
 
 [comment]: <> (**PhD** in ? &#40;Prospective...&#41;)
 
-![](D:\Github\yyyang-2019.github.io\images\hat-20x20.png) **MSc** in _Data Science and Machine Learning_, Department of Mathematics, 2023-present, National University of Singapore
+![](D:\Github\yyyang-2019.github.io\images\hat-20x20.png) **M.S** in _Data Science and Machine Learning_, Department of Mathematics, 2023-present, National University of Singapore
 
-<img src="images/Springturn_Logo_s.png" alt="Springturn_Logo_s.png" style="zoom:20%;" />
-
-**BSc** in _Spatial Informatics and Digitalized Technology_, 2019-2023, Wuhan University
+![](D:\Github\yyyang-2019.github.io\images\hat-20x20.png) **B.E** in _Spatial Informatics and Digitalized Technology_, 2019-2023, Wuhan University
 
 - GPA: _87.54/100_, Department Assessment Ranking: _3/52_ (2021-22)
 - Undergraduate First Class Scholarship (top 5%)
 
 
-Winter Program at Imperial College London: Best Final Project (1 of 16 groups)
+![](D:\Github\yyyang-2019.github.io\images\hat-20x20.png) Winter Program at Imperial College London
+
+- Best Final Project (1 of 16 groups)
 
 ## Internship
 

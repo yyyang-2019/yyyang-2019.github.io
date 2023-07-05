@@ -20,15 +20,15 @@ My name is **Ouyang Mingyu (欧阳铭禹)** and I am currently a Master student 
 
 [comment]: <> (**PhD** in ? &#40;Prospective...&#41;)
 
-![](D:\Github\yyyang-2019.github.io\images\hat-15x15.png) **M.S** in _Data Science and Machine Learning_, 2023-present, National University of Singapore
+![](/images/hat-15x15.png) **M.S** in _Data Science and Machine Learning_, 2023-present, National University of Singapore
 
-![](D:\Github\yyyang-2019.github.io\images\hat-15x15.png) **B.E** in _Spatial Informatics and Digitalized Technology_, 2019-2023, Wuhan University
+![](/images/hat-15x15.png) **B.E** in _Spatial Informatics and Digitalized Technology_, 2019-2023, Wuhan University
 
 - GPA: _87.54/100_, Department Assessment Ranking: _3/52_ (2021-22)
 - Undergraduate First Class Scholarship (top 5%)
 
 
-![](D:\Github\yyyang-2019.github.io\images\hat-15x15.png) Winter Program at Imperial College London
+![](/images/hat-15x15.png) Winter Program at Imperial College London
 
 - Best Final Project (1 of 16 groups)
 
@@ -57,7 +57,7 @@ _[IEEE TCSVT, under revision]_ JPEG Quantized Coefficient Recovery via DCT Domai
 
 _[CVPRW Challenge, participation]_ NTIRE23 Challenge on Efficient Image Super-Resolution, **First Author**
 
-- See our proposed solution at [PDF](). The full challenge result is at [Link](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/papers/Li_NTIRE_2023_Challenge_on_Efficient_Super-Resolution_Methods_and_Results_CVPRW_2023_paper.pdf).
+- See our proposed solution at [PDF](files/Ntire23_DLFAN.pdf). The full challenge result is at [Link](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/papers/Li_NTIRE_2023_Challenge_on_Efficient_Super-Resolution_Methods_and_Results_CVPRW_2023_paper.pdf).
 
 ## Extracurricular
 

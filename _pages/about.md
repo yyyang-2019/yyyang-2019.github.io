@@ -16,8 +16,6 @@ My name is **Ouyang Mingyu (欧阳铭禹)** and I am currently a Master student 
 
 ## Education
 
-------
-
 [comment]: <> (**PhD** in ? &#40;Prospective...&#41;)
 
 ![](/images/hat-15x15.png) **M.S** in _Data Science and Machine Learning_, 2023-present, National University of Singapore
@@ -34,8 +32,6 @@ My name is **Ouyang Mingyu (欧阳铭禹)** and I am currently a Master student 
 
 ## Internship
 
-------
-
 **Tencent Technology**	
 <img src="images/Tencent-Logo-s.png" alt="Tencent-Logo-s.png" style="zoom:20%;" />
 
@@ -48,8 +44,6 @@ My name is **Ouyang Mingyu (欧阳铭禹)** and I am currently a Master student 
 
 ## Acdemic Experience
 
-------
-
 _[IEEE TCSVT, under revision]_ JPEG Quantized Coefficient Recovery via DCT Domain Spatial-Frequential Transformer, **First Author**
 
 - A dual-branch Transformer model for JPEG artifact removal within the frequency domain, achieving the state-of-the-art performance.
@@ -60,8 +54,6 @@ _[CVPRW Challenge, participation]_ NTIRE23 Challenge on Efficient Image Super-Re
 - See our proposed solution at [PDF](files/Ntire23_DLFAN.pdf). The full challenge result is at [Link](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/papers/Li_NTIRE_2023_Challenge_on_Efficient_Super-Resolution_Methods_and_Results_CVPRW_2023_paper.pdf).
 
 ## Extracurricular
-
-------
 
 Wuhan University Soccer Team
 
@@ -75,8 +67,6 @@ Wuhan University Soccer Team
 
 ## Contact
 
-------
-
 Scholar: o_ouyangmingyu04 [at] u.nus.edu
 
 Email me at: yyyangwhu [at] gmail.com
@@ -84,9 +74,8 @@ Email me at: yyyangwhu [at] gmail.com
 
 ## For more info
 
-------
-
 More info about me can be found in my [CV page]() and [Publication page](). Beside academics, ["football is life!"]()
+
 
 -----
 This homepage is forked from the contribution of [academicpages](https://academicpages.github.io).

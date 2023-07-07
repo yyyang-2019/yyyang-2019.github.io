@@ -16,6 +16,7 @@ gem "github-pages", group: :jekyll_plugins
 
 gem "jekyll"
 
+
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
 
 
@@ -27,6 +28,7 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem 'jekyll-sitemap'
   gem 'hawkins'
+  gem 'jemoji'
 end
 
 gem "webrick", "~> 1.7"

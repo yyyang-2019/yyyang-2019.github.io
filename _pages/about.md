@@ -10,7 +10,7 @@ redirect_from:
 
 
 Hiii :smiley: :) \
-My name is **Ouyang Mingyu (欧阳铭禹)** and I am currently a Master student at the Department of Mathematics, [National University of Singapore](www.nus.edu.sg). I received my Bachelor of Engineering in Spatial Informatics and Digitalized Technology from the [Wuhan University](https://www.whu.edu.cn/), China. There I joined [IIP Lab](http://iip.whu.edu.cn/) under the supervision of Professor [Zhenzhong Chen](http://iip.whu.edu.cn/~zzchen/bio.html). My research interests include image&video processing, efficient network design, and machine learning.
+My name is **Ouyang Mingyu (欧阳铭禹)** and I am currently a Master student at the Department of Mathematics, [National University of Singapore](https://www.nus.edu.sg). I received my Bachelor of Engineering in Spatial Informatics and Digitalized Technology from the [Wuhan University](https://www.whu.edu.cn/), China. There I joined [IIP Lab](http://iip.whu.edu.cn/) under the supervision of Professor [Zhenzhong Chen](http://iip.whu.edu.cn/~zzchen/bio.html). My research interests include image&video processing, efficient network design, and machine learning.
 
 
 ## Education
@@ -40,11 +40,14 @@ $$ $$ $$ $$ **Springturn Education Technology** - Software Dev. Intern $$ $$ $$ 
     
 ## Selected Academic Experience
 
+<img src="images/PaperFig_DCTrans.jpg" alt="PaperFig_DCTrans.jpg" style="zoom:20%;" />\
+
 _[IEEE TCSVT, under revision]_ JPEG Quantized Coefficient Recovery via DCT Domain Spatial-Frequential Transformer \
 **First Author** \
 $$ $$ $$ $$ $$ $$ $$ $$ • A dual-branch Transformer model for JPEG artifact removal within the frequency domain, achieving the state-of-the-art performance. \
 $$ $$ $$ $$ $$ $$ $$ $$ • The pre-print version is available at [PDF](). The paper is submitted on June 2023.
 
+<img src="images/PaperFig_DLFANS.jpg" alt="PaperFig_DLFANS.jpg" style="zoom:20%;" />\
 
 _[CVPRW Challenge, participation]_ NTIRE23 Challenge on Efficient Image Super-Resolution \
 **First Author, (equal contribution)** \

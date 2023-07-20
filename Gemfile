@@ -29,6 +29,7 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'hawkins'
   gem 'jemoji'
+  gem "webrick", "~> 1.7"
 end
 
-gem "webrick", "~> 1.7"
+# gem "webrick", "~> 1.7"

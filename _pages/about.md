@@ -41,14 +41,12 @@ $$ $$ $$ $$ **Springturn Education Technology** - Software Dev. Intern $$ $$ $$ 
 ## Selected Academic Experience
 
 <img src="images/PaperFig_DCTrans.jpg" alt="PaperFig_DCTrans.jpg" style="zoom:20%;" />\
-
 _[IEEE TCSVT, under revision]_ JPEG Quantized Coefficient Recovery via DCT Domain Spatial-Frequential Transformer \
 **First Author** \
 $$ $$ $$ $$ $$ $$ $$ $$ • A dual-branch Transformer model for JPEG artifact removal within the frequency domain, achieving the state-of-the-art performance. \
 $$ $$ $$ $$ $$ $$ $$ $$ • The pre-print version is available at [PDF](). The paper is submitted on June 2023.
 
 <img src="images/PaperFig_DLFANS.jpg" alt="PaperFig_DLFANS.jpg" style="zoom:20%;" />\
-
 _[CVPRW Challenge, participation]_ NTIRE23 Challenge on Efficient Image Super-Resolution \
 **First Author, (equal contribution)** \
 $$ $$ $$ $$ $$ $$ $$ $$ • See our proposed solution at [PDF](files/NTIRE23%20Solution_DLFAN_Ouyang%20Mingyu.pdf). The full challenge result is at [Link](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/papers/Li_NTIRE_2023_Challenge_on_Efficient_Super-Resolution_Methods_and_Results_CVPRW_2023_paper.pdf).

@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "cn-CHN"
-title                    : "yyyang404"
+title                    : "About Ouyang Mingyu"
 title_separator          : "-"
-name                     : &name "Mingyu Ouyang"
-description              : &description "Welcome to Mingyu Ouyang's Page!"
+name                     : &name "Ouyang Mingyu"
+description              : &description "Welcome to Ouyang Mingyu's HomePage!"
 url                      : https://yyyang-2019.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yyyang-2019/yyyang-2019.github.io"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mingyu Ouyang"
+  name             : "Ouyang Mingyu"
   avatar           : "Selfie_90k.jpg"
   bio              : "MSc student of Data Science and Machine Learning, NUS"
   location         : "Singapore"

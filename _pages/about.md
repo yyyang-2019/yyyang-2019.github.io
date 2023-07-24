@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Mingyu Ouyang (欧阳铭禹)"
+title: "Ouyang Mingyu (欧阳铭禹)"
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -10,7 +10,7 @@ redirect_from:
 
 
 Hiii :smiley: :) \
-My name is **Ouyang Mingyu (欧阳铭禹)** and I am currently a Master student at the Department of Mathematics, [National University of Singapore](https://www.nus.edu.sg). I received my Bachelor of Engineering in Spatial Informatics and Digitalized Technology from the [Wuhan University](https://www.whu.edu.cn/), China. There I joined [IIP Lab](http://iip.whu.edu.cn/) under the supervision of Professor [Zhenzhong Chen](http://iip.whu.edu.cn/~zzchen/bio.html). My research interests include image&video processing, efficient network design, and machine learning.
+My name is **Ouyang Mingyu (欧阳铭禹)** and I am currently a Master student at the Department of Mathematics, [National University of Singapore](https://www.nus.edu.sg). I received my Bachelor of Engineering in Spatial Informatics and Digitalized Technology from the [Wuhan University](https://www.whu.edu.cn/), China. There I joined [IIP Lab](http://iip.whu.edu.cn/) under the supervision of Professor [Zhenzhong Chen](http://iip.whu.edu.cn/~zzchen/bio.html). My research interests include image & video processing, efficient network design, and machine learning.
 
 
 ## Education
@@ -53,7 +53,7 @@ $$ $$ $$ $$ $$ $$ $$ $$ • See our proposed solution at [PDF](files/NTIRE23%20S
 
 ## Extracurricular
 
-Wuhan University Soccer Team :soccer::soccer:\
+Wuhan University Soccer Team :soccer: :fire:\
 $$ $$ $$ $$ $$ $$ $$ $$ ▪ **Captain**, starting center back \
 $$ $$ $$ $$ $$ $$ $$ $$ ▪ Champion at the 16th Hubei Province Games (2022) and 2nd place at the Province University Tournament (2020)\
 <img src="images/TeamWHU.jpg" alt="TeamWHU.jpg" style="zoom:25%;" />
@@ -68,8 +68,9 @@ Email: o_ouyangmingyu04 [at] u.nus.edu
 ## For more info
 
 More info about me can be found in my [CV page](files/Curriculum%20Vitae_Ouyang%20Mingyu_v20230708.pdf) and [Publication page](). \
-Beside academics, ["football is life!"]()
+Beside academics, I am a big fan of ["football is life!"]()
 
 
-#### Contribution
-This homepage is forked from the contribution of [academicpages](https://academicpages.github.io).
+[comment]: <> (#### Contribution)
+
+[comment]: <> (This homepage is forked from the contribution of [academicpages]&#40;https://academicpages.github.io&#41;.)

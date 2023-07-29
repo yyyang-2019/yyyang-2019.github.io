@@ -10,7 +10,7 @@ redirect_from:
 
 
 Hiii :smiley: :) \
-My name is **Ouyang Mingyu (欧阳铭禹)** and I am currently a Master student at the Department of Mathematics, [National University of Singapore](https://www.nus.edu.sg). I received my Bachelor of Engineering in Spatial Informatics and Digitalized Technology from the [Wuhan University](https://www.whu.edu.cn/), China. There I joined [IIP Lab](http://iip.whu.edu.cn/) under the supervision of Prof. [Zhenzhong Chen](http://iip.whu.edu.cn/~zzchen/bio.html). My research interests include image & video processing, efficient network design, and machine learning.
+My name is **Ouyang Mingyu (欧阳铭禹)** and I am currently a Master student at the Department of Mathematics, [National University of Singapore](https://www.nus.edu.sg). I received my Bachelor of Engineering in Spatial Informatics & Digitalized Technology from the [Wuhan University](https://www.whu.edu.cn/), China. There I joined [IIP Lab](http://iip.whu.edu.cn/) under the supervision of Prof. [Zhenzhong Chen](http://iip.whu.edu.cn/~zzchen/bio.html). My research interests include image & video processing, efficient network design, and machine learning.
 
 
 ## Education
@@ -52,7 +52,7 @@ _[CVPRW Challenge, participation]_ NTIRE23 Challenge on Efficient Image Super-Re
 $$ $$ $$ $$ $$ $$ $$ $$ • A learnable enhanced re-parameterization module for efficient network.\
 $$ $$ $$ $$ $$ $$ $$ $$ • See our proposed solution at [PDF](files/NTIRE23%20Solution_DLFAN_Ouyang%20Mingyu.pdf). The full challenge result is at [Link](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/papers/Li_NTIRE_2023_Challenge_on_Efficient_Super-Resolution_Methods_and_Results_CVPRW_2023_paper.pdf).
 
-## Extracurricular
+## Extracurricular&Leadership
 
 Wuhan University Soccer Team :soccer: :fire:\
 $$ $$ $$ $$ $$ $$ $$ $$ ▪ **Captain**, starting center back \

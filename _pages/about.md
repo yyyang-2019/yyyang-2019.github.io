@@ -44,7 +44,7 @@ $$ $$ $$ $$ **Springturn Education Technology** - Software Dev. Intern $$ $$ $$ 
 _[IEEE TCSVT, under revision]_ JPEG Quantized Coefficient Recovery via DCT Domain Spatial-Frequential Transformer \
 **First Author** \
 $$ $$ $$ $$ $$ $$ $$ $$ • A dual-branch Transformer model for JPEG artifact removal within the frequency domain, achieving the state-of-the-art performance. \
-$$ $$ $$ $$ $$ $$ $$ $$ • The pre-print version is available at [PDF](files/DCTransformer_Preprint.pdf). The paper is submitted on July 2023.
+$$ $$ $$ $$ $$ $$ $$ $$ • The pre-print version is available at [PDF](files/PrePrint_DCTransformer.pdf). The paper is submitted on July 2023.
 
 <img src="images/PaperFig_DLFANS.jpg" alt="PaperFig_DLFANS.jpg" style="zoom:20%;" />\
 _[CVPRW Challenge, participation]_ NTIRE23 Challenge on Efficient Image Super-Resolution \

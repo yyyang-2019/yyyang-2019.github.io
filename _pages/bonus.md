@@ -51,7 +51,7 @@ _[CVPRW Challenge, participation]_ NTIRE23 Challenge on Efficient Image Super-Re
 $$ $$ $$ $$ $$ $$ $$ $$ • A learnable enhanced re-parameterization module for efficient network.\
 $$ $$ $$ $$ $$ $$ $$ $$ • See our proposed solution at [PDF](files/NTIRE23%20Solution_DLFAN_Ouyang%20Mingyu.pdf). The full challenge result is at [Link](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/papers/Li_NTIRE_2023_Challenge_on_Efficient_Super-Resolution_Methods_and_Results_CVPRW_2023_paper.pdf).
 
-## Extracurricular
+## Extracurricular&Leadership
 
 Wuhan University Soccer Team :soccer: :fire:\
 $$ $$ $$ $$ $$ $$ $$ $$ ▪ **Captain**, starting center back \

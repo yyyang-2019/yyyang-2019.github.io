@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "cn-CHN"
-title                    : "About Ouyang Mingyu"
+title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Ouyang Mingyu"
 description              : &description "Welcome to Ouyang Mingyu's HomePage!"
@@ -84,7 +84,7 @@ author:
   avatar           : "Selfie_90k.jpg"
   bio              : "MSc student of Data Science and Machine Learning, NUS"
   location         : "Singapore"
-  employer         : "Wuhan University, China"
+  employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=GoYztjwAAAAJ&hl"
   email            : "yyyangwhu@gmail.com"

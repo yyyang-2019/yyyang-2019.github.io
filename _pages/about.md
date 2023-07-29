@@ -10,7 +10,7 @@ redirect_from:
 
 
 Hiii :smiley: :) \
-My name is **Ouyang Mingyu (欧阳铭禹)** and I am currently a Master student at the Department of Mathematics, [National University of Singapore](https://www.nus.edu.sg). I received my Bachelor of Engineering in Spatial Informatics and Digitalized Technology from the [Wuhan University](https://www.whu.edu.cn/), China. There I joined [IIP Lab](http://iip.whu.edu.cn/) under the supervision of Professor [Zhenzhong Chen](http://iip.whu.edu.cn/~zzchen/bio.html). My research interests include image & video processing, efficient network design, and machine learning.
+My name is **Ouyang Mingyu (欧阳铭禹)** and I am currently a Master student at the Department of Mathematics, [National University of Singapore](https://www.nus.edu.sg). I received my Bachelor of Engineering in Spatial Informatics and Digitalized Technology from the [Wuhan University](https://www.whu.edu.cn/), China. There I joined [IIP Lab](http://iip.whu.edu.cn/) under the supervision of Prof. [Zhenzhong Chen](http://iip.whu.edu.cn/~zzchen/bio.html). My research interests include image & video processing, efficient network design, and machine learning.
 
 
 ## Education
@@ -61,7 +61,8 @@ $$ $$ $$ $$ $$ $$ $$ $$ ▪ Champion at the 16th Hubei Province Games (2022) and
 
 ## Contact
 
-Email: o_ouyangmingyu04 [at] u.nus.edu 
+Email: [o_ouyangmingyu04 [at] u.nus.edu](o_ouyangmingyu04@u.nus.edu)\
+Mobile: (+65) 88851437
 
 [comment]: <> (Email me at: yyyangwhu [at] gmail.com)
 

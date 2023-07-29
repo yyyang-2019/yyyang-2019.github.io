@@ -7,7 +7,7 @@ redirect_from:
   - /nonac
 ---
 
-## Undergraduate Graduation Acknowledgements (致谢)
-<img src="images/Acknowlegement.jpg" alt="Acknowlegement.jpg" style="zoom:100%;" />\
+## Undergraduate Acknowledgements (本科毕业致谢)
+<img src="images/Acknowlegement.jpg" alt="Acknowlegement.jpg" style="zoom:100%;" />
 
 

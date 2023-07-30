@@ -18,38 +18,27 @@ Education
 * M.S. in Data Science and Machine Learning, National University of Singapore, present
 * Ph.D in ? **(expected)**
 
-Work experience
+Work Experience
 ======
 * Summer 2022: Machine Learning Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Tencent Technology
+  * Duties: Data processing and analysis
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Summer 2021: WeChat Mini-Program Developer
+  * Duties: Front&back-end functions
+
+
 Skills
 ======
 * Computer Vision
+  * OpenCV
   * Pytorch
-  * Pytorch-lightening
 * Big Data Processing
-  * Hadoop
+  * Hadoop MapReduce
   * Spark
-* 3D Lidar Point Clouds
-  * PCL
+* 3D Lidar Point Cloud
+  * PCL(Point Cloud Library)
 * Geoinformatics
   * ArcGIS / QGIS
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-  
-Leadership
-======
-* Captain of Wuhan University Soccer Team (2021-2023)
+* Kaggle Contributor
+  * 1 silver / 2 bronze medals

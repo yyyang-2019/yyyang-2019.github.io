@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 ## Undergraduate Acknowledgements (本科毕业致谢)
-<img src="images/Acknowlegement.png" alt="Acknowlegement.png" style="zoom:100%;" />
+<img src="../images/Acknowlegement.png" alt="Acknowlegement.png" style="zoom:100%;" />

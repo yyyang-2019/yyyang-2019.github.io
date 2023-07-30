@@ -19,7 +19,7 @@ Thanks to them for their support on my journey:smiley:
 
 Go WHU!:punch::punch:
 
-<img src="../images/Team_WHU_Graduate.png" alt="Team_WHU_Graduate.png" style="zoom:100%;" />
+<img src="../images/TeamWHU_Graduate.jpg" alt="TeamWHU_Graduate.jpg" style="zoom:100%;" />
 
 
 

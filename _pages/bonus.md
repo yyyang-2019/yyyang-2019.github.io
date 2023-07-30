@@ -10,12 +10,16 @@ redirect_from:
 
 ## Undergraduate Acknowledgements (本科毕业致谢)
 
-Thanks to them for their support on my journey.
+Thanks to them for their support on my journey:smiley:
 
 <img src="../images/Acknowlegement.png" alt="Acknowlegement.png" style="zoom:100%;" />
 
+
 ## Team WHU
 
-TBD
+Go WHU!:punch::punch:
+
+<img src="../images/Team_WHU_Graduate.png" alt="Team_WHU_Graduate.png" style="zoom:100%;" />
+
 
 

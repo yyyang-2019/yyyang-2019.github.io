@@ -7,6 +7,8 @@ redirect_from:
   - /publication
 ---
 
+Published paper and challenge participation are listed below. More projects and works can be found at [CV page](/cv).
+
 ## JPEG Quantized Coefficient Recovery via DCT Domain Spatial-Frequential Transformer
 
 **<u>Mingyu Ouyang</u>**, Zhenzhong Chen†
@@ -20,7 +22,7 @@ The pre-print version is available at [[PDF]](files/PrePrint_DCTransformer.pdf).
 
 ## [NTIRE23 Challenge] Diversified Local Feature Arch-Network for Efficient Super-Resolution
 
-**<u>Mingyu Ouyang***</u>, Wenzhuo Ma*, Nian Liu*, Hanyou Zheng*, Yuantong Zhang, Junxi Zhang, Zhenzhong Chen†
+**<u>Mingyu Ouyang**</u>\*, Wenzhuo Ma\*, Nian Liu\*, Hanyou Zheng\*, Yuantong Zhang, Junxi Zhang, Zhenzhong Chen†
 
 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), 2023
 

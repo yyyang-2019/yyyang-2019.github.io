@@ -69,7 +69,7 @@ Mobile: (+65) 88851437
 
 ## For more info
 
-More info about me can be found in my [CV page](files/CurriculumVitae_OuyangMingyu_v20230708.pdf) and [Publication page](). \
+More info about me can be found at my [CV page](cv) and [Publication page](publications). \
 Beside academics, I am a big fan of ["football is life!"]()
 
 

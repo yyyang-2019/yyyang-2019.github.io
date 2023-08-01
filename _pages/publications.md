@@ -22,7 +22,7 @@ The pre-print version is available at [[PDF]](https://yyyang-2019.github.io/file
 
 ## Diversified Local Feature Arch-Network for Efficient Super-Resolution (NTIRE23 Challenge)
 
-**<u>Mingyu Ouyang\*</u>**, Wenzhuo Ma\*, Nian Liu\*, Hanyou Zheng\*, Yuantong Zhang, Junxi Zhang, Zhenzhong Chen†
+**<u>Mingyu Ouyang*</u>**, Wenzhuo Ma\*, Nian Liu\*, Hanyou Zheng\*, Yuantong Zhang, Junxi Zhang, Zhenzhong Chen†
 
 _IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), 2023_
 

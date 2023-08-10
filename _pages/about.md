@@ -28,7 +28,7 @@ $$ $$ $$ $$ $$ $$ $$ $$ ▪ Best Final Project (1 of 16 groups)
 
 ## Internship
 
-I am/was an Intern for the following companies:
+I spent wonderful and meaningful times as an Intern with:
 
 <img src="images/Tencent-Logo-960x320.png" alt="Tencent-Logo-960x320.png" style="zoom:20%;" />\
 $$ $$ $$ $$ **Tencent Technology** - Machine Learning Engineer Intern $$ $$ $$ $$  _(Mar. 2022 – Oct. 2022)_

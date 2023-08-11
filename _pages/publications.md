@@ -30,7 +30,7 @@ _IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW
 See our proposed solution at [[PDF]](https://yyyang-2019.github.io/files/NTIRE23%20Solution_DLFAN_Ouyang%20Mingyu.pdf). The full challenge result is at [[Link]](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/papers/Li_NTIRE_2023_Challenge_on_Efficient_Super-Resolution_Methods_and_Results_CVPRW_2023_paper.pdf).
 
 
-### Looking forward to continuing >>>
+### Looking forward to continuing >>>>
 
 [comment]: <> ({% if author.googlescholar %})
 

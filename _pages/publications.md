@@ -13,7 +13,7 @@ Published paper and challenge participation are listed below. More projects and 
 
 **<u>Mingyu Ouyang</u>**, Zhenzhong Chen†
 
-_Under review of IEEE Transactions on Circuits and Systems for Video Technology, 2023_
+_Under review of IEEE Transactions on Image Processing (TIP), 2023_
 
 <span style="color:#C70039">A fully DCT frequency domain dual-branch Transformer for JPEG artifact removal, achieving the state-of-the-art performance.</span>\
 The pre-print version is available at [[PDF]](https://yyyang-2019.github.io/files/PrePrint_DCTransformer.pdf).

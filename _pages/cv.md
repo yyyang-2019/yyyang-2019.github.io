@@ -11,7 +11,7 @@ redirect_from:
 
 
 Here is my [CV](files/CurriculumVitae_OuyangMingyu_v20230708.pdf).\
-_Last Updated at: 2023/07/08_
+_(Last Updated at: 2023/07/08)_
 
 Education
 ======

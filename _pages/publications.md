@@ -26,7 +26,7 @@ The pre-print version is available at [[PDF]](https://yyyang-2019.github.io/file
 
 _IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), 2023_
 
-<span style="color:#C70039">A learnable enhanced re-parameterization module for efficient SR.</span>\
+<span style="color:#C70039">A learnable enhanced re-parameterization module, namely DLFAN, for efficient SR.</span>\
 See our proposed solution at [[PDF]](https://yyyang-2019.github.io/files/NTIRE23%20Solution_DLFAN_Ouyang%20Mingyu.pdf). The full challenge result is at [[Link]](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/papers/Li_NTIRE_2023_Challenge_on_Efficient_Super-Resolution_Methods_and_Results_CVPRW_2023_paper.pdf).
 
 

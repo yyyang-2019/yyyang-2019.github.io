@@ -31,25 +31,26 @@ $$ $$ $$ $$ $$ $$ $$ $$ ▪ Best Final Project (1 of 16 groups)
 I spent wonderful and meaningful times as an Intern with:
 
 <img src="images/Tencent-Logo-960x320.png" alt="Tencent-Logo-960x320.png" style="zoom:20%;" />\
-$$ $$ $$ $$ **Tencent Technology** - Machine Learning Engineer Intern $$ $$ $$ $$  _(Mar. 2022 – Oct. 2022)_
+$$ $$ $$ $$ <span style="color:#3C57AA">**Tencent Technology**</span> - Machine Learning Engineer Intern $$ $$ $$ $$  _(Mar. 2022 – Oct. 2022)_
 
 [comment]: <> (Laboratory of Positioning and Navigation Tech)
 
 <img src="images/Springturn_Logo_500x166.png" alt="Springturn_Logo_500x166.png" style="zoom:40%;" />\
-$$ $$ $$ $$ **Springturn Education Technology** - Software Dev. Intern $$ $$ $$ $$  _(Nov. 2020 – Sep. 2021)_
+$$ $$ $$ $$ <span style="color:#3D6935">**Springturn Education Technology**</span> - Software Dev. Intern $$ $$ $$ $$  _(Nov. 2020 – Sep. 2021)_
     
 ## Selected Academic Experience
 
 <img src="images/PaperFig_DCTrans.jpg" alt="PaperFig_DCTrans.jpg" style="zoom:20%;" />\
 _[IEEE TIP, under revision]_ JPEG Quantized Coefficient Recovery via DCT Domain Spatial-Frequential Transformer \
 **First Author** \
-$$ $$ $$ $$ $$ $$ $$ $$ • A dual-branch Transformer model for JPEG artifact removal within the frequency domain, achieving the state-of-the-art performance. \
-$$ $$ $$ $$ $$ $$ $$ $$ • The pre-print version (202306) is available at [PDF](files/PrePrint_DCTransformer.pdf). The paper is submitted on July 2023.
+
+$$ $$ $$ $$ $$ $$ $$ $$ • <span style="color:#2EABFD"> A dual-branch Transformer model for JPEG artifact removal in the frequency domain, achieving the state-of-the-art performance.</span>\
+$$ $$ $$ $$ $$ $$ $$ $$ • The pre-print version (202308) is available at [[arXiv]](https://arxiv.org/abs/2308.09110). The paper is submitted on Aug 2023.
 
 <img src="images/PaperFig_DLFANS.jpg" alt="PaperFig_DLFANS.jpg" style="zoom:20%;" />\
 _[CVPRW Challenge, participation]_ NTIRE23 Challenge on Efficient Image Super-Resolution \
 **First Author, (equal contribution)** \
-$$ $$ $$ $$ $$ $$ $$ $$ • A learnable enhanced re-parameterization module for efficient network.\
+$$ $$ $$ $$ $$ $$ $$ $$ • <span style="color:#2EABFD"> A learnable enhanced re-parameterization module for efficient network.</span>\
 $$ $$ $$ $$ $$ $$ $$ $$ • See our proposed solution at [PDF](files/NTIRE23%20Solution_DLFAN_Ouyang%20Mingyu.pdf). The full challenge result is at [Link](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/papers/Li_NTIRE_2023_Challenge_on_Efficient_Super-Resolution_Methods_and_Results_CVPRW_2023_paper.pdf).
 
 ## Extracurricular Leadership

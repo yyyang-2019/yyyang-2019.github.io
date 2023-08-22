@@ -71,7 +71,8 @@ Mobile: (+65) 88851437
 ## For more info
 
 More info about me can be found at my [CV page](cv) and [Publication page](publications). \
-Beside academics, I am a big fan of ["football is life!"](bonus)
+Beside academics, ["football is life!"](bonus)\
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=284&t=tt&d=HKFYdBQBrrVCtIag1R3vxWCi5q8rHTS-K4A5Zh2JCJE&co=277ebc&cmn=ffa353&cmo=ffa353'></script>
 
 
 [comment]: <> (#### Contribution)

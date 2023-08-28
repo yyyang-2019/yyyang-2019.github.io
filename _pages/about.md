@@ -35,8 +35,9 @@ $$ $$ $$ $$ <span style="color:#3C57AA">**Tencent Technology**</span> - Machine 
 
 [comment]: <> (Laboratory of Positioning and Navigation Tech)
 
-<img src="images/Springturn_Logo_500x166.png" alt="Springturn_Logo_500x166.png" style="zoom:40%;" />\
-$$ $$ $$ $$ <span style="color:#3D6935">**Springturn Education Technology**</span> - Software Dev. Intern $$ $$ $$ $$  _(Nov. 2020 – Sep. 2021)_
+
+[//]: # (<img src="images/Springturn_Logo_500x166.png" alt="Springturn_Logo_500x166.png" style="zoom:40%;" />\)
+[//]: # ($$ $$ $$ $$ <span style="color:#3D6935">**Springturn Education Technology**</span> - Software Dev. Intern $$ $$ $$ $$  _&#40;Nov. 2020 – Sep. 2021&#41;_)
     
 ## Selected Academic Experience
 

@@ -41,7 +41,7 @@ $$ $$ $$ $$ <span style="color:#3C57AA">**Tencent Technology**</span> - Machine 
     
 ## Selected Academic Experience
 
-<img src="images/PaperFig_DCTrans.jpg" alt="PaperFig_DCTrans.jpg" style="zoom:20%;" />\
+<img src="images/DCT_overview.png" alt="PaperFig_DCTrans.jpg" style="zoom:20%;" />\
 _[IEEE TIP, under revision]_ JPEG Quantized Coefficient Recovery via DCT Domain Spatial-Frequential Transformer \
 **First Author** \
 

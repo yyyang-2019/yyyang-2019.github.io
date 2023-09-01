@@ -43,8 +43,7 @@ $$ $$ $$ $$ <span style="color:#3C57AA">**Tencent Technology**</span> - Machine 
 
 <img src="images/DCT_overview.png" alt="PaperFig_DCTrans.jpg" style="zoom:20%;" />\
 _[IEEE TIP, under revision]_ JPEG Quantized Coefficient Recovery via DCT Domain Spatial-Frequential Transformer \
-**First Author** \
-
+**First Author**\
 $$ $$ $$ $$ $$ $$ $$ $$ • <span style="color:#2EABFD"> A dual-branch Transformer model for JPEG artifact removal in the frequency domain, achieving the state-of-the-art performance.</span>\
 $$ $$ $$ $$ $$ $$ $$ $$ • The pre-print version (202308) is available at [[arXiv]](https://arxiv.org/abs/2308.09110). The paper is submitted on Aug 2023.
 

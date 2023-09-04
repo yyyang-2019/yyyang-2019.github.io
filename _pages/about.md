@@ -10,7 +10,8 @@ redirect_from:
 
 
 Hiii :smiley: :) \
-My name is **Ouyang Mingyu (欧阳铭禹)** and I am currently a Master student at the Department of Mathematics, [National University of Singapore](https://www.nus.edu.sg). I received my Bachelor of Engineering in Spatial Informatics & Digitalized Technology from the [Wuhan University](https://www.whu.edu.cn/), China. There I joined [IIP Lab](http://iip.whu.edu.cn/) under the supervision of Prof. [Zhenzhong Chen](http://iip.whu.edu.cn/~zzchen/bio.html). My research interests include image & video processing, efficient network design, and machine learning.
+My name is **Ouyang Mingyu (欧阳铭禹)** and I am currently a Master student at the Department of Mathematics, [National University of Singapore](https://www.nus.edu.sg). I received my Bachelor of Engineering in Spatial Informatics & Digitalized Technology from [Wuhan University](https://www.whu.edu.cn/), China. There I joined [IIP Lab](http://iip.whu.edu.cn/) under the supervision of Prof. [Zhenzhong Chen](http://iip.whu.edu.cn/~zzchen/bio.html). My research interests include image & video processing, efficient network design, and machine learning. \
+Update: Great honor to be a part of [ShowLab, NUS](https://sites.google.com/view/showlab/home), cheers! :fist:
 
 
 ## Education
@@ -21,7 +22,7 @@ My name is **Ouyang Mingyu (欧阳铭禹)** and I am currently a Master student 
 
 :mortar_board: **B.E** in _Spatial Informatics and Digitalized Technology_, 2019 - 2023, Wuhan University\
 $$ $$ $$ $$ $$ $$ $$ $$ ▪ GPA: _87.54/100_, 2021-22 Department Assessment Ranking: _3/52_\
-$$ $$ $$ $$ $$ $$ $$ $$ ▪ Undergraduate First Class Scholarship (top 5%)
+$$ $$ $$ $$ $$ $$ $$ $$ ▪ 2022 Undergraduate First Class Scholarship (top 5%)
 
 :telescope: Winter Program, Imperial College London\
 $$ $$ $$ $$ $$ $$ $$ $$ ▪ Best Final Project (1 of 16 groups)

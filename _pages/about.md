@@ -64,8 +64,8 @@ $$ $$ $$ $$ $$ $$ $$ $$ ▪ Champion at the 16th Hubei Province Games (2022) and
 ## Contact
 
 Emailto: \
-[o_ouyangmingyu04 [at] u.nus.edu](o_ouyangmingyu04@u.nus.edu)\
-[yyyangwhu [at] gmail.com](yyyangwhu@gmail.com)
+[o_ouyangmingyu04 [at] u.nus.edu](mailto:o_ouyangmingyu04@u.nus.edu)\
+[yyyangwhu [at] gmail.com](mailto:yyyangwhu@gmail.com)
 
 [//]: # (Mobile: &#40;+65&#41; 88851437)
 

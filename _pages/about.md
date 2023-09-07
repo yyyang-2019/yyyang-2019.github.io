@@ -11,7 +11,7 @@ redirect_from:
 
 Hiii :smiley: :) \
 My name is **Ouyang Mingyu (欧阳铭禹)** and I am currently a Master student at the Department of Mathematics, [National University of Singapore](https://www.nus.edu.sg). I received my Bachelor of Engineering in Spatial Informatics & Digitalized Technology from [Wuhan University](https://www.whu.edu.cn/), China. There I joined [IIP Lab](http://iip.whu.edu.cn/) under the supervision of Prof. [Zhenzhong Chen](http://iip.whu.edu.cn/~zzchen/bio.html). My research interests include image & video processing, efficient network design, and machine learning. \
-Update: Great honor to be a part of [ShowLab, NUS](https://sites.google.com/view/showlab/home), cheers! :fist:
+An update (2023.08): Great honor to be a part of [ShowLab, NUS](https://sites.google.com/view/showlab/home), cheers! :fist:
 
 
 ## Education
@@ -49,7 +49,7 @@ $$ $$ $$ $$ $$ $$ $$ $$ • <span style="color:#2EABFD"> A dual-branch Transform
 $$ $$ $$ $$ $$ $$ $$ $$ • The pre-print version (202308) is available at [[arXiv]](https://arxiv.org/abs/2308.09110). The paper is submitted on Aug 2023.
 
 <img src="images/PaperFig_DLFANS.jpg" alt="PaperFig_DLFANS.jpg" style="zoom:20%;" />\
-_[CVPRW Challenge, participation]_ NTIRE23 Challenge on Efficient Image Super-Resolution \
+_[CVPRW'23 Challenge, participation]_ NTIRE23 Challenge on Efficient Image Super-Resolution \
 **First Author, (equal contribution)** \
 $$ $$ $$ $$ $$ $$ $$ $$ • <span style="color:#2EABFD"> A learnable enhanced re-parameterization module for efficient network.</span>\
 $$ $$ $$ $$ $$ $$ $$ $$ • See our proposed solution at [PDF](files/NTIRE23%20Solution_DLFAN_Ouyang%20Mingyu.pdf). The full challenge result is at [Link](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/papers/Li_NTIRE_2023_Challenge_on_Efficient_Super-Resolution_Methods_and_Results_CVPRW_2023_paper.pdf).
@@ -63,8 +63,11 @@ $$ $$ $$ $$ $$ $$ $$ $$ ▪ Champion at the 16th Hubei Province Games (2022) and
 
 ## Contact
 
-Email: [o_ouyangmingyu04 [at] u.nus.edu](o_ouyangmingyu04@u.nus.edu)\
-Mobile: (+65) 88851437
+Emailto: \
+[o_ouyangmingyu04 [at] u.nus.edu](o_ouyangmingyu04@u.nus.edu)\
+[yyyangwhu [at] gmail.com](yyyangwhu@gmail.com)
+
+[//]: # (Mobile: &#40;+65&#41; 88851437)
 
 [comment]: <> (Email me at: yyyangwhu [at] gmail.com)
 

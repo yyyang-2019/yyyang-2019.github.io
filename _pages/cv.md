@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-Here is my [CV](files/CurriculumVitae_OuyangMingyu_v20230708.pdf).\
+Here is my [CV](../files/CurriculumVitae_OuyangMingyu_v20230708.pdf).\
 _(Last Updated at: 2023/07/08)_
 
 Education

@@ -19,7 +19,7 @@ Thanks to them for their support on my journey:smiley:
 
 Go WHU!!! :punch::punch:
 
-<img src="../images/TeamWHU_Graduate.jpg" alt="TeamWHU_Graduate.jpg" style="zoom:100%;" />
+<img src="../images/team_whu_collage.jpg" alt="team_whu_collage.jpg" style="zoom:100%;" />
 
 ---
 

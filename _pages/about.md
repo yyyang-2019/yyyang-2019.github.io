@@ -22,19 +22,19 @@ An update (2023.08): Great honor to be a part of [ShowLab, NUS](https://sites.go
 **National University of Singapore**, Aug. 2023 - present
 
 :mortar_board: **B.E** in _Spatial Informatics and Digitalized Technology_,\
-Wuhan University, 2019 - 2023\
-&#9; ▪ GPA: _87.54/100_, 2021-22 Department Assessment Ranking: _3/52_\
-&#9; ▪ 2022 Undergraduate First Class Scholarship (top 5%)
+**Wuhan University**, 2019 - 2023\
+&emsp; ▪ GPA: _87.54/100_, 2021-22 Department Assessment Ranking: _3/52_\
+&emsp; ▪ 2022 Undergraduate First Class Scholarship (top 5%)
 
 :telescope: Winter Program, Imperial College London\
-$$ $$ $$ $$ $$ $$ $$ $$ ▪ Best Final Project (1 of 16 groups)
+&emsp; ▪ Best Final Project (1 of 16 groups)
 
 ## Internship
 
 I spent wonderful and meaningful times as an Intern with:
 
 <img src="images/Tencent-Logo-960x320.png" alt="Tencent-Logo-960x320.png" style="zoom:20%;" />\
-$$ $$ $$ $$ <span style="color:#3C57AA">**Tencent Technology**</span> - Machine Learning Engineer Intern $$ $$ $$ $$  _(Mar. 2022 – Oct. 2022)_
+&ensp;<span style="color:#3C57AA">**Tencent Technology**</span> - Machine Learning Engineer Intern $$ $$ $$ $$  _(Mar. 2022 – Oct. 2022)_
 
 [comment]: <> (Laboratory of Positioning and Navigation Tech)
 
@@ -47,20 +47,20 @@ $$ $$ $$ $$ <span style="color:#3C57AA">**Tencent Technology**</span> - Machine 
 <img src="images/DCT_overview.png" alt="PaperFig_DCTrans.jpg" style="zoom:20%;" />\
 _[IEEE TIP, under revision]_ JPEG Quantized Coefficient Recovery via DCT Domain Spatial-Frequential Transformer \
 **First Author**\
-$$ $$ $$ $$ $$ $$ $$ $$ • <span style="color:#2EABFD"> A dual-branch Transformer model for JPEG artifact removal in the frequency domain, achieving the state-of-the-art performance.</span>\
-$$ $$ $$ $$ $$ $$ $$ $$ • The pre-print version (202308) is available at [[arXiv]](https://arxiv.org/abs/2308.09110). The paper is submitted on Aug 2023.
+&emsp; • <span style="color:#2EABFD"> A dual-branch Transformer model for JPEG artifact removal in the frequency domain, achieving the state-of-the-art performance.</span>\
+&emsp; • The pre-print version (202308) is available at [[arXiv]](https://arxiv.org/abs/2308.09110). The paper is submitted on Aug 2023.
 
 <img src="images/PaperFig_DLFANS.jpg" alt="PaperFig_DLFANS.jpg" style="zoom:40%;" />\
 _[CVPRW'23 Challenge, participation]_ NTIRE23 Challenge on Efficient Image Super-Resolution \
 **First Author, (equal contribution)** \
-$$ $$ $$ $$ $$ $$ $$ $$ • <span style="color:#2EABFD"> A learnable enhanced re-parameterization module for efficient network.</span>\
-$$ $$ $$ $$ $$ $$ $$ $$ • See our proposed solution at [PDF](files/NTIRE23%20Solution_DLFAN_Ouyang%20Mingyu.pdf). The full challenge result is at [Link](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/papers/Li_NTIRE_2023_Challenge_on_Efficient_Super-Resolution_Methods_and_Results_CVPRW_2023_paper.pdf).
+&emsp; • <span style="color:#2EABFD"> A learnable enhanced re-parameterization module for efficient network.</span>\
+&emsp; • See our proposed solution at [PDF](files/NTIRE23%20Solution_DLFAN_Ouyang%20Mingyu.pdf). The full challenge result is at [Link](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/papers/Li_NTIRE_2023_Challenge_on_Efficient_Super-Resolution_Methods_and_Results_CVPRW_2023_paper.pdf).
 
 ## Extracurricular Leadership
 
 Wuhan University Soccer Team :soccer: :fire:\
-$$ $$ $$ $$ $$ $$ $$ $$ ▪ **Captain**, starting center back \
-$$ $$ $$ $$ $$ $$ $$ $$ ▪ Champion at the 16th Hubei Province Games (2022) and 2nd place at the Province University Tournament (2020)\
+&emsp; ▪ **Captain**, starting center back \
+&emsp; ▪ Champion at the 16th Hubei Province Games (2022) and 2nd place at the Province University Tournament (2020)\
 <img src="images/TeamWHU.jpg" alt="TeamWHU.jpg" style="zoom:25%;" />
 
 ## Contact

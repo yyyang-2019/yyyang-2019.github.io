@@ -18,11 +18,13 @@ An update (2023.08): Great honor to be a part of [ShowLab, NUS](https://sites.go
 
 [comment]: <> (**PhD** in ? &#40;Prospective...&#41;)
 
-:mortar_board: **M.S** in _Data Science and Machine Learning_, starting from Aug. 2023, National University of Singapore
+:mortar_board: **M.S** in _Data Science and Machine Learning_,\
+**National University of Singapore**, Aug. 2023 - present
 
-:mortar_board: **B.E** in _Spatial Informatics and Digitalized Technology_, 2019 - 2023, Wuhan University\
-$$ $$ $$ $$ $$ $$ $$ $$ ▪ GPA: _87.54/100_, 2021-22 Department Assessment Ranking: _3/52_\
-$$ $$ $$ $$ $$ $$ $$ $$ ▪ 2022 Undergraduate First Class Scholarship (top 5%)
+:mortar_board: **B.E** in _Spatial Informatics and Digitalized Technology_,\
+Wuhan University, 2019 - 2023\
+&#9; ▪ GPA: _87.54/100_, 2021-22 Department Assessment Ranking: _3/52_\
+&#9; ▪ 2022 Undergraduate First Class Scholarship (top 5%)
 
 :telescope: Winter Program, Imperial College London\
 $$ $$ $$ $$ $$ $$ $$ $$ ▪ Best Final Project (1 of 16 groups)

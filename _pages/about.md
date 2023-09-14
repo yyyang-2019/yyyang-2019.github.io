@@ -48,7 +48,7 @@ _[IEEE TIP, under revision]_ JPEG Quantized Coefficient Recovery via DCT Domain 
 $$ $$ $$ $$ $$ $$ $$ $$ • <span style="color:#2EABFD"> A dual-branch Transformer model for JPEG artifact removal in the frequency domain, achieving the state-of-the-art performance.</span>\
 $$ $$ $$ $$ $$ $$ $$ $$ • The pre-print version (202308) is available at [[arXiv]](https://arxiv.org/abs/2308.09110). The paper is submitted on Aug 2023.
 
-<img src="images/PaperFig_DLFANS.jpg" alt="PaperFig_DLFANS.jpg" style="zoom:20%;" />\
+<img src="images/PaperFig_DLFANS.jpg" alt="PaperFig_DLFANS.jpg" style="zoom:40%;" />\
 _[CVPRW'23 Challenge, participation]_ NTIRE23 Challenge on Efficient Image Super-Resolution \
 **First Author, (equal contribution)** \
 $$ $$ $$ $$ $$ $$ $$ $$ • <span style="color:#2EABFD"> A learnable enhanced re-parameterization module for efficient network.</span>\

@@ -10,20 +10,23 @@ redirect_from:
 
 
 Hiii :smiley: :) \
-My name is **Ouyang Mingyu (欧阳铭禹)** and I am currently a Master student at the Department of Mathematics, [National University of Singapore](https://www.nus.edu.sg). I received my Bachelor of Engineering in Spatial Informatics & Digitalized Technology from [Wuhan University](https://www.whu.edu.cn/), China. There I joined [IIP Lab](http://iip.whu.edu.cn/) under the supervision of Prof. [Zhenzhong Chen](http://iip.whu.edu.cn/~zzchen/bio.html). My research interests include image & video processing, efficient network design, and machine learning. \
-An update (2023.08): Great honor to be a part of [ShowLab, NUS](https://sites.google.com/view/showlab/home), cheers! :fist:
+My name is **Ouyang Mingyu (欧阳铭禹)** and I am currently a Master student at the Department of Mathematics, [National University of Singapore](https://www.nus.edu.sg). I received B.Eng in Spatial Informatics from [Wuhan University](https://www.whu.edu.cn/) on 2023. There I joined [IIP Lab](http://iip.whu.edu.cn/) under the supervision of Prof. [Zhenzhong Chen](https://zhenzhong-chen.github.io/). 
 
+My research interests mainly focus on computer vision, including low-level image processing, efficient network design, and machine learning. 
+
+(2023.08): Great honor to be a part of [ShowLab, NUS](https://sites.google.com/view/showlab/home), cheers! :fist:\
+(2023.12): Start an internship at [Sensetime, Singapore](https://www.sensetime.com/en). :smiley:
 
 ## Education
 
 [comment]: <> (**PhD** in ? &#40;Prospective...&#41;)
 
-:mortar_board: **M.S** in _Data Science and Machine Learning_,\
+:mortar_board: **M.Sc** in _Data Science and Machine Learning_,\
 **National University of Singapore**, Aug. 2023 - present
 
-:mortar_board: **B.E** in _Spatial Informatics and Digitalized Technology_,\
+:mortar_board: **B.Eng** in _Spatial Informatics and Digitalized Technology_,\
 **Wuhan University**, 2019 - 2023\
-&emsp; ▪ GPA: _87.54/100_, 2021-22 Department Assessment Ranking: _3/52_\
+&emsp; ▪ GPA: _87.54/100_, 2021-22 Annual Department Assessment Ranking: _3/52_\
 &emsp; ▪ 2022 Undergraduate First Class Scholarship (top 5%)
 
 :telescope: Winter Program, Imperial College London\
@@ -31,10 +34,15 @@ An update (2023.08): Great honor to be a part of [ShowLab, NUS](https://sites.go
 
 ## Internship
 
-I spent wonderful and meaningful times as an Intern with:
+<img src="images/sensetime_logo.png" alt="sensetime_logo.png" style="zoom:20%;" />\
+&ensp;<span style="color:#c63629">**Sensetime**</span> - Algorithm Research Intern &emsp;  _(Current-)_
+
+
+
+I also spent wonderful and meaningful times as an Intern with:
 
 <img src="images/Tencent-Logo-960x320.png" alt="Tencent-Logo-960x320.png" style="zoom:20%;" />\
-&ensp;<span style="color:#3C57AA">**Tencent Technology**</span> - Machine Learning Engineer Intern $$ $$ $$ $$  _(Mar. 2022 – Oct. 2022)_
+&ensp;<span style="color:#3C57AA">**Tencent Technology**</span> - Machine Learning Engineer Intern &emsp; _(Mar. 2022 – Oct. 2022)_
 
 [comment]: <> (Laboratory of Positioning and Navigation Tech)
 
@@ -58,23 +66,23 @@ _[CVPRW'23 Challenge, participation]_ NTIRE23 Challenge on Efficient Image Super
 
 ## Extracurricular Leadership
 
-Wuhan University Soccer Team :soccer: :fire:\
+Wuhan University Football Varsity Team :soccer: :fire:\
 &emsp; ▪ **Captain**, starting center back \
 &emsp; ▪ Champion at the 16th Hubei Province Games (2022) and 2nd place at the Province University Tournament (2020)\
 <img src="images/TeamWHU.jpg" alt="TeamWHU.jpg" style="zoom:25%;" />
 
 ## Contact
 
-Emailto: \
-[o_ouyangmingyu04 [at] u.nus.edu](mailto:o_ouyangmingyu04@u.nus.edu)\
-[yyyangwhu [at] gmail.com](mailto:yyyangwhu@gmail.com)
+Emailto: [yyyangwhu@gmail.com](mailto:yyyangwhu@gmail.com)
+
+[//]: # (&#40;[o_ouyangmingyu04 [at] u.nus.edu]&#40;mailto:o_ouyangmingyu04@u.nus.edu&#41;\&#41;)
 
 [//]: # (Mobile: &#40;+65&#41; 88851437)
 
 [comment]: <> (Email me at: yyyangwhu [at] gmail.com)
 
 
-## For more info
+### For more info
 
 More info about me can be found at my [CV page](cv) and [Publication page](publications). \
 Beside academics, ["football is life!"](bonus)

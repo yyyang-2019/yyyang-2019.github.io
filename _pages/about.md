@@ -12,7 +12,7 @@ redirect_from:
 Hiii :smiley: :) \
 My name is **Ouyang Mingyu (欧阳铭禹)** and I am currently a Master student at the Department of Mathematics, [National University of Singapore](https://www.nus.edu.sg). I received B.Eng in Spatial Informatics from [Wuhan University](https://www.whu.edu.cn/) on 2023. There I joined [IIP Lab](http://iip.whu.edu.cn/) under the supervision of Prof. [Zhenzhong Chen](https://zhenzhong-chen.github.io/). 
 
-My research interests mainly focus on computer vision, including low-level image processing, efficient network design, and machine learning. 
+My research interests mainly focus on computer vision, including low-level image processing(SR, denosing), efficient network design, and vision-embedded agents. 
 
 (2023.08): Great honor to be a part of [ShowLab, NUS](https://sites.google.com/view/showlab/home), cheers! :fist:\
 (2023.12): Start an internship at [Sensetime, Singapore](https://www.sensetime.com/en). :smiley:
@@ -34,15 +34,14 @@ My research interests mainly focus on computer vision, including low-level image
 
 ## Internship
 
+I also spent wonderful and meaningful times as an intern with:
+
 <img src="images/sensetime_logo.png" alt="sensetime_logo.png" style="zoom:20%;" />\
-&ensp;<span style="color:#c63629">**Sensetime**</span> - Algorithm Research Intern &emsp;  _(Current-)_
+&ensp;<span style="color:#c63629">**Sensetime, Singapore**</span> - Algorithm Research Intern &emsp;  _(Present)_
 
-
-
-I also spent wonderful and meaningful times as an Intern with:
 
 <img src="images/Tencent-Logo-960x320.png" alt="Tencent-Logo-960x320.png" style="zoom:20%;" />\
-&ensp;<span style="color:#3C57AA">**Tencent Technology**</span> - Machine Learning Engineer Intern &emsp; _(Mar. 2022 – Oct. 2022)_
+&ensp;<span style="color:#3C57AA">**Tencent Technology, Beijing**</span> - Machine Learning Engineer Intern &emsp; _(Mar. 2022 – Oct. 2022)_
 
 [comment]: <> (Laboratory of Positioning and Navigation Tech)
 
@@ -84,7 +83,7 @@ Emailto: [yyyangwhu@gmail.com](mailto:yyyangwhu@gmail.com)
 
 ### For more info
 
-More info about me can be found at my [CV page](cv) and [Publication page](publications). \
+[CV page](cv) / [Publication page](publications) \
 Beside academics, ["football is life!"](bonus)
 
 <div style="width: 285px; height: 150px;">

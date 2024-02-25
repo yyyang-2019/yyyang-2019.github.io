@@ -55,7 +55,7 @@ I also spent wonderful and meaningful times as an intern with:
 _[IEEE TIP, under revision]_ JPEG Quantized Coefficient Recovery via DCT Domain Spatial-Frequential Transformer \
 **First Author**\
 &emsp; • <span style="color:#2EABFD"> A dual-branch Transformer model for JPEG artifact removal in the frequency domain, achieving the state-of-the-art performance.</span>\
-&emsp; • The pre-print version (202308) is available at [[arXiv]](https://arxiv.org/abs/2308.09110). The paper is submitted on Aug 2023.
+&emsp; • The pre-print version (202308) is available at [[arXiv]](https://arxiv.org/abs/2308.09110). The paper is submitted on Aug 2023. Revised version is at [PDF](https://yyyang-2019.github.io/files/Revised_JPEG Quantized Coefficient Recovery via DCT Domain Spatial-Frequential Transformer.pdf).
 
 <img src="images/PaperFig_DLFANS.jpg" alt="PaperFig_DLFANS.jpg" style="zoom:40%;" />\
 _[CVPRW'23 Challenge, participation]_ NTIRE23 Challenge on Efficient Image Super-Resolution \

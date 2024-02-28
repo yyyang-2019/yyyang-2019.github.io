@@ -14,7 +14,7 @@ My name is **Ouyang Mingyu (欧阳铭禹)** and I am currently a Master student 
 
 My research interests mainly focus on computer vision, including low-level image processing(SR, denosing), efficient network design, and vision-embedded agents. 
 
-(2023.08): Great honor to be a part of [ShowLab, NUS](https://sites.google.com/view/showlab/home), cheers! :fist:\
+(2023.08): Great honored to be a part of [ShowLab, NUS](https://sites.google.com/view/showlab/home), cheers! :fist:\
 (2023.12): Start an internship at [Sensetime, Singapore](https://www.sensetime.com/en). :smiley:
 
 ## Education
@@ -29,15 +29,15 @@ My research interests mainly focus on computer vision, including low-level image
 &emsp; ▪ GPA: _87.54/100_, 2021-22 Annual Department Assessment Ranking: _3/52_\
 &emsp; ▪ 2022 Undergraduate First Class Scholarship (top 5%)
 
-:telescope: Winter Program, Imperial College London\
-&emsp; ▪ Best Final Project (1 of 16 groups)
+:telescope: Certificated Program, Imperial College London\
+&emsp; ▪ Best Final Project (1 of 16 groups) [[Certificate]](files/IC2022_Certif.pdf)
 
 ## Internship
 
 I also spent wonderful and meaningful times as an intern with:
 
 <img src="images/sensetime_logo.png" alt="sensetime_logo.png" style="zoom:20%;" />\
-&ensp;<span style="color:#c63629">**Sensetime, Singapore**</span> - Algorithm Research Intern &emsp;  _(Present)_
+&ensp;<span style="color:#c63629">**Sensetime, Singapore**</span> - Algorithm Research Intern &emsp;  _(Dec. 2023 - Present)_
 
 
 <img src="images/Tencent-Logo-960x320.png" alt="Tencent-Logo-960x320.png" style="zoom:20%;" />\
@@ -52,16 +52,21 @@ I also spent wonderful and meaningful times as an intern with:
 ## Selected Academic Experience
 
 <img src="images/DCT_overview.png" alt="PaperFig_DCTrans.jpg" style="zoom:20%;" />\
-_[IEEE TIP, under revision]_ JPEG Quantized Coefficient Recovery via DCT Domain Spatial-Frequential Transformer \
-**First Author**\
+_[IEEE TIP, under major revision]_ JPEG Quantized Coefficient Recovery via DCT Domain Spatial-Frequential Transformer \
+**<u>Mingyu Ouyang</u>**, Zhenzhong Chen†\
 &emsp; • <span style="color:#2EABFD"> A dual-branch Transformer model for JPEG artifact removal in the frequency domain, achieving the state-of-the-art performance.</span>\
-&emsp; • The pre-print version (202308) is available at [[arXiv]](https://arxiv.org/abs/2308.09110). The paper is submitted on Aug 2023. Revised version is at [PDF](https://yyyang-2019.github.io/files/Revised_JPEG Quantized Coefficient Recovery via DCT Domain Spatial-Frequential Transformer.pdf).
+&emsp; • The pre-print version (202308) is available at [[arXiv]](https://arxiv.org/abs/2308.09110), **revised version is at [PDF](https://yyyang-2019.github.io/files/Revised_JPEG_Quantized_Coefficient_Recovery_via_DCT_Domain_Spatial-Frequential_Transformer.pdf)**.
+
+[under revision] ASSISTGUI: Task-Oriented Desktop Graphical User Interface Automation \
+Difei Gao, Lei Ji, Zechen Bai, **<u>Mingyu Ouyang</u>**, Peiran Li, Dongxing Mao, Qinchen Wu, Weichen Zhang, Peiyi Wang, Xiangwu Guo, Hengxu Wang, Luowei Zhou, Mike Zheng Shou \
+&emsp; • <span style="color:#2EABFD"> A novel benchmark for multi-modality assistant agent, AssistGUI, to evaluate whether models are capable of manipulating the mouse and keyboard on the Windows platform in response to user-requested tasks.</span>
+&emsp; • The paper is available at [[arXiv]](https://arxiv.org/abs/2312.13108)
 
 <img src="images/PaperFig_DLFANS.jpg" alt="PaperFig_DLFANS.jpg" style="zoom:40%;" />\
-_[CVPRW'23 Challenge, participation]_ NTIRE23 Challenge on Efficient Image Super-Resolution \
-**First Author, (equal contribution)** \
+_[CVPRW'23 Challenge]_ NTIRE23 Challenge on Efficient Image Super-Resolution: Diversified Local Feature Arch-Network for Efficient Super-Resolution \
+****<u>Mingyu Ouyang</u>**\*, Wenzhuo Ma\*, Nian Liu\*, Hanyou Zheng\*, Yuantong Zhang, Junxi Zhang, Zhenzhong Chen† (equal contribution)** \
 &emsp; • <span style="color:#2EABFD"> A learnable enhanced re-parameterization module for efficient network.</span>\
-&emsp; • See our proposed solution at [PDF](files/NTIRE23%20Solution_DLFAN_Ouyang%20Mingyu.pdf). The full challenge result is at [Link](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/papers/Li_NTIRE_2023_Challenge_on_Efficient_Super-Resolution_Methods_and_Results_CVPRW_2023_paper.pdf).
+&emsp; • See our proposed solution at [PDF](files/NTIRE23%20Solution_DLFAN_Ouyang%20Mingyu.pdf). The full challenge result is at [[Link]](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/papers/Li_NTIRE_2023_Challenge_on_Efficient_Super-Resolution_Methods_and_Results_CVPRW_2023_paper.pdf).
 
 ## Extracurricular Leadership
 

@@ -18,6 +18,15 @@ _Under review of IEEE Transactions on Image Processing (TIP), 2023_
 <span style="color:#C70039">A fully DCT frequency domain dual-branch Transformer for JPEG artifact removal, achieving the state-of-the-art performance.</span>\
 The pre-print version is available at [[arXiv]](https://arxiv.org/abs/2308.09110).
 
+## ASSISTGUI: Task-Oriented Desktop Graphical User Interface Automation
+
+Difei Gao, Lei Ji, Zechen Bai, **<u>Mingyu Ouyang</u>**, Peiran Li, Dongxing Mao, Qinchen Wu, Weichen Zhang, Peiyi Wang, Xiangwu Guo, Hengxu Wang, Luowei Zhou, Mike Zheng Shou
+
+<span style="color:#C70039">A novel benchmark for multimodal assistant agent, AssistGUI, to evaluate whether models are capable of manipulating the mouse and keyboard on the Windows platform in response to user-requested tasks.</span>\
+See the great demo from our collaborators at [[demo]](images/assistgui_demo_v1.mp4) :fire:
+
+
+_IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2024_
 
 ## Diversified Local Feature Arch-Network for Efficient Super-Resolution (NTIRE23 Challenge)
 

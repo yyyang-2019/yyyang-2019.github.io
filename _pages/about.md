@@ -51,13 +51,13 @@ I also spent wonderful and meaningful times as an intern with:
     
 ## Selected Academic Experience
 
-<img src="images/DCT_overview.png" alt="PaperFig_DCTrans.jpg" style="zoom:20%;" />\
+<img src="images/DCT_overview.png" alt="PaperFig_DCTrans.jpg" style="zoom:35%;" />\
 _[IEEE TIP, under major revision]_ JPEG Quantized Coefficient Recovery via DCT Domain Spatial-Frequential Transformer \
 **<u>Mingyu Ouyang</u>**, Zhenzhong Chen†\
 &emsp; • <span style="color:#2EABFD"> A dual-branch Transformer model for JPEG artifact removal in the frequency domain, achieving the state-of-the-art performance.</span>\
 &emsp; • The pre-print version (202308) is available at [[arXiv]](https://arxiv.org/abs/2308.09110), **revised version is at [PDF](https://yyyang-2019.github.io/files/Revised_JPEG_Quantized_Coefficient_Recovery_via_DCT_Domain_Spatial-Frequential_Transformer.pdf)**.
 
-<img src="images/assistgui.png" alt="assistgui.png" style="zoom:20%;" />\
+<img src="images/assistgui.png" alt="assistgui.png" style="zoom:50%;" />\
 _[under revision]_ ASSISTGUI: Task-Oriented Desktop Graphical User Interface Automation \
 Difei Gao, Lei Ji, Zechen Bai, **<u>Mingyu Ouyang</u>**, Peiran Li, Dongxing Mao, Qinchen Wu, Weichen Zhang, Peiyi Wang, Xiangwu Guo, Hengxu Wang, Luowei Zhou, Mike Zheng Shou \
 &emsp; • <span style="color:#2EABFD"> A novel benchmark for multi-modality assistant agent, AssistGUI, capable of manipulating the mouse and keyboard on the Windows platform in response to user-requested tasks.</span> \

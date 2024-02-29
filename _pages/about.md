@@ -57,9 +57,10 @@ _[IEEE TIP, under major revision]_ JPEG Quantized Coefficient Recovery via DCT D
 &emsp; • <span style="color:#2EABFD"> A dual-branch Transformer model for JPEG artifact removal in the frequency domain, achieving the state-of-the-art performance.</span>\
 &emsp; • The pre-print version (202308) is available at [[arXiv]](https://arxiv.org/abs/2308.09110), **revised version is at [PDF](https://yyyang-2019.github.io/files/Revised_JPEG_Quantized_Coefficient_Recovery_via_DCT_Domain_Spatial-Frequential_Transformer.pdf)**.
 
+<img src="images/assistgui.png" alt="PaperFig_DCTrans.jpg" style="zoom:20%;" />\
 [under revision] ASSISTGUI: Task-Oriented Desktop Graphical User Interface Automation \
 Difei Gao, Lei Ji, Zechen Bai, **<u>Mingyu Ouyang</u>**, Peiran Li, Dongxing Mao, Qinchen Wu, Weichen Zhang, Peiyi Wang, Xiangwu Guo, Hengxu Wang, Luowei Zhou, Mike Zheng Shou \
-&emsp; • <span style="color:#2EABFD"> A novel benchmark for multi-modality assistant agent, AssistGUI, to evaluate whether models are capable of manipulating the mouse and keyboard on the Windows platform in response to user-requested tasks.</span>
+&emsp; • <span style="color:#2EABFD"> A novel benchmark for multi-modality assistant agent, AssistGUI, to evaluate whether models are capable of manipulating the mouse and keyboard on the Windows platform in response to user-requested tasks.</span> \
 &emsp; • The paper is available at [[arXiv]](https://arxiv.org/abs/2312.13108)
 
 <img src="images/PaperFig_DLFANS.jpg" alt="PaperFig_DLFANS.jpg" style="zoom:40%;" />\
@@ -94,6 +95,16 @@ Beside academics, ["football is life!"](bonus)
 <div style="width: 285px; height: 150px;">
     <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=284&t=tt&d=HKFYdBQBrrVCtIag1R3vxWCi5q8rHTS-K4A5Zh2JCJE&co=277ebc&cmn=ffa353&cmo=ffa353'></script>
 </div>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DZ2MLLZK7P"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-DZ2MLLZK7P');
+</script>
 
 [comment]: <> (#### Contribution)
 

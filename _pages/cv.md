@@ -10,8 +10,8 @@ redirect_from:
 {% include base_path %}
 
 
-Here is my [CV](../files/CurriculumVitae_OuyangMingyu_v20230708.pdf).\
-_(Last Updated at: 2023/07/08)_
+Here is my [CV](../files/CV_OuyangMingyu_202402.pdf).\
+_(Last Updated at: 2024/02/28)_
 
 Education
 ======
@@ -32,7 +32,7 @@ Work Experience
 Skills
 ======
 * Computer Vision
-  * OpenCV/Pytorch
+  * OpenCV/PyTorch
 * Data Manipulation & Analysis
   * Pandas/Sklearn
 * Cluster Computing
@@ -44,3 +44,17 @@ Skills
 * Website Development
 * Kaggle Contributor
   * 1 silver / 2 bronze medals
+
+<div style="width: 285px; height: 150px;">
+    <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=284&t=tt&d=HKFYdBQBrrVCtIag1R3vxWCi5q8rHTS-K4A5Zh2JCJE&co=277ebc&cmn=ffa353&cmo=ffa353'></script>
+</div>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DZ2MLLZK7P"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-DZ2MLLZK7P');
+</script>

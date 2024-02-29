@@ -23,7 +23,7 @@ The pre-print version is available at [[arXiv]](https://arxiv.org/abs/2308.09110
 Difei Gao, Lei Ji, Zechen Bai, **<u>Mingyu Ouyang</u>**, Peiran Li, Dongxing Mao, Qinchen Wu, Weichen Zhang, Peiyi Wang, Xiangwu Guo, Hengxu Wang, Luowei Zhou, Mike Zheng Shou
 
 <span style="color:#C70039">A novel benchmark for multimodal assistant agent, AssistGUI, to evaluate whether models are capable of manipulating the mouse and keyboard on the Windows platform in response to user-requested tasks.</span>\
-See the great demo from our collaborators at [[demo]](images/assistgui_demo_v1.mp4) :fire:
+See the great demo from our collaborators at [[demo]](https://yyyang-2019.github.io/images/assistgui_demo_v1.mp4) :fire:
 
 
 _IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2024_
@@ -41,6 +41,21 @@ See our proposed solution at [[PDF]](https://yyyang-2019.github.io/files/NTIRE23
 ## One more collaboration paper is under review
 
 ### Looking forward to continuing >>>>
+
+
+<div style="width: 285px; height: 150px;">
+    <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=284&t=tt&d=HKFYdBQBrrVCtIag1R3vxWCi5q8rHTS-K4A5Zh2JCJE&co=277ebc&cmn=ffa353&cmo=ffa353'></script>
+</div>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DZ2MLLZK7P"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-DZ2MLLZK7P');
+</script>
 
 [comment]: <> ({% if author.googlescholar %})
 

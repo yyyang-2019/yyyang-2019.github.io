@@ -24,5 +24,17 @@ Go WHU!!! :punch::punch:
 ---
 
 #### Website Stat
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=284&t=tt&d=HKFYdBQBrrVCtIag1R3vxWCi5q8rHTS-K4A5Zh2JCJE&co=277ebc&cmn=ffa353&cmo=ffa353'></script>
-    
+
+<div style="width: 285px; height: 150px;">
+    <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=284&t=tt&d=HKFYdBQBrrVCtIag1R3vxWCi5q8rHTS-K4A5Zh2JCJE&co=277ebc&cmn=ffa353&cmo=ffa353'></script>
+</div>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DZ2MLLZK7P"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-DZ2MLLZK7P');
+</script>    

@@ -1,0 +1,20 @@
+---
+permalink: /
+title: "Redirecting..."
+excerpt: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+  - /index.html
+  - /bonus/
+  - /bonus.html
+  - /cv/
+  - /cv.html
+---
+
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>Redirecting to https://sites.google.com/view/yyyang/</title>
+<meta http-equiv="refresh" content="0; URL=https://sites.google.com/view/yyyang/">
+<link rel="canonical" href="https://sites.google.com/view/yyyang/">
